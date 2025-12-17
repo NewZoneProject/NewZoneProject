@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.6] - Added NZ-0005
+- Added NZ-0005 Storage Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.6.
+
+---
+
 ## [0.0.5] - Added NZ-0004
 - Added NZ-0004 Routing Protocol specification.
 - Updated NZ_SPEC_INDEX.md.
