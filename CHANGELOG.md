@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.3] - Added NZ-0002
+- Added NZ-0002 Identity Format specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.3.
+
+---
+
 ## [0.0.2] - Added NZ-0001
 - Added NZ-0001 NewZone Core specification.
 - Updated NZ_SPEC_INDEX.md.
