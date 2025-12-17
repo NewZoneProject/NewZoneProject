@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.11] - Added NZ-0010
+- Added NZ-0010 Payload Schema Definition specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.11.
+
+---
+
 ## [0.0.10] - Added NZ-0009
 - Added NZ-0009 Message Envelope Format specification.
 - Updated NZ_SPEC_INDEX.md.
