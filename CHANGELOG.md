@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.9] - Added NZ-0008
+- Added NZ-0008 Formal Verification Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.9.
+
+---
+
 ## [0.0.8] - Added NZ-0007
 - Added NZ-0007 Quantum Resilience specification.
 - Updated NZ_SPEC_INDEX.md.
