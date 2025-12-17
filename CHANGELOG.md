@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.8] - Added NZ-0007
+- Added NZ-0007 Quantum Resilience specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.8.
+
+---
+
 ## [0.0.7] - Added NZ-0006
 - Added NZ-0006 Trust Graph specification.
 - Updated NZ_SPEC_INDEX.md.
