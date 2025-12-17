@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.4] - Added NZ-0003
+- Added NZ-0003 Communication Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.4.
+
+---
+
 ## [0.0.3] - Added NZ-0002
 - Added NZ-0002 Identity Format specification.
 - Updated NZ_SPEC_INDEX.md.
