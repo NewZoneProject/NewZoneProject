@@ -1,7 +1,7 @@
 # NewZone Specification Index
 
 This document provides a complete index of all specifications that form the NewZone standard.  
-Each specification follows the minimalistic, durable, and platform‑agnnostic principles of the project.
+Each specification follows the minimalistic, durable, and platform‑agnostic principles of the project.
 
 ---
 
@@ -9,9 +9,10 @@ Each specification follows the minimalistic, durable, and platform‑agnnostic p
 
 | ID        | Name                | Status     | Version   |
 |-----------|---------------------|------------|-----------|
-| NZ-0001   | NewZone Core        | draft v0   | 0.0.4     |
-| NZ-0002   | Identity Format     | draft v0   | 0.0.4     |
-| NZ-0003   | Communication Model | draft v0   | 0.0.4     |
+| NZ-0001   | NewZone Core        | draft v0   | 0.0.5     |
+| NZ-0002   | Identity Format     | draft v0   | 0.0.5     |
+| NZ-0003   | Communication Model | draft v0   | 0.0.5     |
+| NZ-0004   | Routing Protocol    | draft v0   | 0.0.5     |
 
 ---
 
