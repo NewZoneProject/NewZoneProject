@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.14] - Added NZ-0013
+- Added NZ-0013 Deterministic Neighbor Table Format specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.14.
+
+---
+
 ## [0.0.13] - Added NZ-0012
 - Added NZ-0012 Routing Table Compression specification.
 - Updated NZ_SPEC_INDEX.md.
