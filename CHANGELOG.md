@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.13] - Added NZ-0012
+- Added NZ-0012 Routing Table Compression specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.13.
+
+---
+
 ## [0.0.12] - Added NZ-0011
 - Added NZ-0011 Deterministic Path Selection Rules specification.
 - Updated NZ_SPEC_INDEX.md.
