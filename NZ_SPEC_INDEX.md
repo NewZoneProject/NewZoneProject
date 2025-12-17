@@ -9,18 +9,19 @@ Each specification follows the minimalistic, durable, and platform‑agnostic pr
 
 | ID        | Name                              | Status     | Version   |
 |-----------|-----------------------------------|------------|-----------|
-| NZ-0001   | NewZone Core                      | draft v0   | 0.0.13    |
-| NZ-0002   | Identity Format                   | draft v0   | 0.0.13    |
-| NZ-0003   | Communication Model               | draft v0   | 0.0.13    |
-| NZ-0004   | Routing Protocol                  | draft v0   | 0.0.13    |
-| NZ-0005   | Storage Model                     | draft v0   | 0.0.13    |
-| NZ-0006   | Trust Graph                       | draft v0   | 0.0.13    |
-| NZ-0007   | Quantum Resilience                | draft v0   | 0.0.13    |
-| NZ-0008   | Formal Verification Model         | draft v0   | 0.0.13    |
-| NZ-0009   | Message Envelope Format           | draft v0   | 0.0.13    |
-| NZ-0010   | Payload Schema Definition         | draft v0   | 0.0.13    |
-| NZ-0011   | Deterministic Path Selection Rules| draft v0   | 0.0.13    |
-| NZ-0012   | Routing Table Compression         | draft v0   | 0.0.13    |
+| NZ-0001   | NewZone Core                      | draft v0   | 0.0.14    |
+| NZ-0002   | Identity Format                   | draft v0   | 0.0.14    |
+| NZ-0003   | Communication Model               | draft v0   | 0.0.14    |
+| NZ-0004   | Routing Protocol                  | draft v0   | 0.0.14    |
+| NZ-0005   | Storage Model                     | draft v0   | 0.0.14    |
+| NZ-0006   | Trust Graph                       | draft v0   | 0.0.14    |
+| NZ-0007   | Quantum Resilience                | draft v0   | 0.0.14    |
+| NZ-0008   | Formal Verification Model         | draft v0   | 0.0.14    |
+| NZ-0009   | Message Envelope Format           | draft v0   | 0.0.14    |
+| NZ-0010   | Payload Schema Definition         | draft v0   | 0.0.14    |
+| NZ-0011   | Deterministic Path Selection Rules| draft v0   | 0.0.14    |
+| NZ-0012   | Routing Table Compression         | draft v0   | 0.0.14    |
+| NZ-0013   | Deterministic Neighbor Table Format | draft v0 | 0.0.14    |
 
 ---
 
