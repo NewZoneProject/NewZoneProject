@@ -9,7 +9,7 @@ Each specification follows the minimalistic, durable, and platform‑agnostic pr
 
 | ID        | Name            | Status     | Version   |
 |-----------|-----------------|------------|-----------|
-| NZ-0001   | NewZone Core    | draft v0   | 0.0.1     |
+| NZ-0001   | NewZone Core    | draft v0   | 0.0.2     |
 
 ---
 
