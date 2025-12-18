@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.18] - Added NZ-0017
+- Added NZ-0017 Routing Loop Formal Proof Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.18.
+
+---
+
 ## [0.0.17] - Added NZ-0016
 - Added NZ-0016 Multi-Path Deterministic Selection specification.
 - Updated NZ_SPEC_INDEX.md.
