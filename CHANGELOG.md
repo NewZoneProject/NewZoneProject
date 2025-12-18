@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.17] - Added NZ-0016
+- Added NZ-0016 Multi-Path Deterministic Selection specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.17.
+
+---
+
 ## [0.0.16] - Added NZ-0015
 - Added NZ-0015 Routing Table Expansion Rules specification.
 - Updated NZ_SPEC_INDEX.md.
