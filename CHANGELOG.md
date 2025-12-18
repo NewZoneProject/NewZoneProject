@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.19] - Added NZ-0018
+- Added NZ-0018 Deterministic Forwarding Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.19.
+
+---
+
 ## [0.0.18] - Added NZ-0017
 - Added NZ-0017 Routing Loop Formal Proof Model specification.
 - Updated NZ_SPEC_INDEX.md.
