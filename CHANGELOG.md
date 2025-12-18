@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.15] - Added NZ-0014
+- Added NZ-0014 Deterministic Link Quality Derivation specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.15.
+
+---
+
 ## [0.0.14] - Added NZ-0013
 - Added NZ-0013 Deterministic Neighbor Table Format specification.
 - Updated NZ_SPEC_INDEX.md.
