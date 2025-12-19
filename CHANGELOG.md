@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.50] - Added NZ-0049
+- Added NZ-0049 Metadata Integrity Replay Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.50.
+
+---
+
 ## [0.0.49] - Added NZ-0048
 - Added NZ-0048 Identity Graph Integrity Replay Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
