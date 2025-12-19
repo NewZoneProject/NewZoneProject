@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.29] - Added NZ-0028
+- Added NZ-0028 Quantum-Resilient Identity Hash specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.29.
+
+---
+
 ## [0.0.28] - Added NZ-0027
 - Added NZ-0027 Stateless Flow Verification Model specification.
 - Updated NZ_SPEC_INDEX.md.
