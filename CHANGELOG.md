@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.30] - Added NZ-0029
+- Added NZ-0029 Fixed-Width Payload Encoding specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.30.
+
+---
+
 ## [0.0.29] - Added NZ-0028
 - Added NZ-0028 Quantum-Resilient Identity Hash specification.
 - Updated NZ_SPEC_INDEX.md.
