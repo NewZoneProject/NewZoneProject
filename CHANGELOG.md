@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.23] - Added NZ-0022
+- Added NZ-0022 Deterministic Session Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.23.
+
+---
+
 ## [0.0.22] - Added NZ-0021
 - Added NZ-0021 Deterministic Transport Envelope specification.
 - Updated NZ_SPEC_INDEX.md.
