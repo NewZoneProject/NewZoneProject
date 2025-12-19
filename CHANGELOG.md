@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.27] - Added NZ-0026
+- Added NZ-0026 Deterministic Session Integrity Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.27.
+
+---
+
 ## [0.0.26] - Added NZ-0025
 - Added NZ-0025 Fixed-Width Transport Encoding specification.
 - Updated NZ_SPEC_INDEX.md.
