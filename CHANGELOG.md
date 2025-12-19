@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.24] - Added NZ-0023
+- Added NZ-0023 Stateless Flow Control specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.24.
+
+---
+
 ## [0.0.23] - Added NZ-0022
 - Added NZ-0022 Deterministic Session Model specification.
 - Updated NZ_SPEC_INDEX.md.
