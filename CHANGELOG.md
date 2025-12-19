@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.38] - Added NZ-0037
+- Added NZ-0037 Metadata Integrity Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.38.
+
+---
+
 ## [0.0.37] - Added NZ-0036
 - Added NZ-0036 Identity Graph Compression specification.
 - Updated NZ_SPEC_INDEX.md.
