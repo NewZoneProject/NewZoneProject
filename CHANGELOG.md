@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.36] - Added NZ-0035
+- Added NZ-0035 Stateless Transport Rollback Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.36.
+
+---
+
 ## [0.0.35] - Added NZ-0034
 - Added NZ-0034 Deterministic Consensus Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
