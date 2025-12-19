@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.22] - Added NZ-0021
+- Added NZ-0021 Deterministic Transport Envelope specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.22.
+
+---
+
 ## [0.0.21] - Added NZ-0020
 - Added NZ-0020 Deterministic Packet Scheduling specification.
 - Updated NZ_SPEC_INDEX.md.
