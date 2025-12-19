@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.45] - Added NZ-0044
+- Added NZ-0044 Identity Graph Replay Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.45.
+
+---
+
 ## [0.0.44] - Added NZ-0043
 - Added NZ-0043 Stateless Transport Integrity Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
