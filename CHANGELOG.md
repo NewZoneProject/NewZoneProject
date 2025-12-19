@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.54] - Added NZ-0053
+- Added NZ-0053 Metadata Integrity Rollback Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.54.
+
+---
+
 ## [0.0.53] - Added NZ-0052
 - Added NZ-0052 Identity Graph Integrity Rollback Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
