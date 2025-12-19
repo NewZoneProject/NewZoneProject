@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.58] - Added NZ-0057
+- Added NZ-0057 Metadata Integrity Forward Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.58.
+
+---
+
 ## [0.0.57] - Added NZ-0056
 - Added NZ-0056 Identity Graph Integrity Forward Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
