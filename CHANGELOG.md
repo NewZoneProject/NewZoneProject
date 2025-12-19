@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.51] - Added NZ-0050
+- Added NZ-0050 Deterministic Consensus Replay Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.51.
+
+---
+
 ## [0.0.50] - Added NZ-0049
 - Added NZ-0049 Metadata Integrity Replay Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
