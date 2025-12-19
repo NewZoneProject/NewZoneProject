@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.25] - Added NZ-0024
+- Added NZ-0024 Quantum-Resilient Transport Hash specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.25.
+
+---
+
 ## [0.0.24] - Added NZ-0023
 - Added NZ-0023 Stateless Flow Control specification.
 - Updated NZ_SPEC_INDEX.md.
