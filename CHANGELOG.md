@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.35] - Added NZ-0034
+- Added NZ-0034 Deterministic Consensus Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.35.
+
+---
+
 ## [0.0.34] - Added NZ-0033
 - Added NZ-0033 Fixed-Width Metadata Encoding specification.
 - Updated NZ_SPEC_INDEX.md.
