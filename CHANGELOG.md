@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.60] - Added NZ-0059
+- Added NZ-0059 Stateless Transport Integrity Forward Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.60.
+
+---
+
 ## [0.0.59] - Added NZ-0058
 - Added NZ-0058 Consensus Integrity Forward Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
