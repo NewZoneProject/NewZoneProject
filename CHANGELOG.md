@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.52] - Added NZ-0051
+- Added NZ-0051 Stateless Transport Integrity Replay Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.52.
+
+---
+
 ## [0.0.51] - Added NZ-0050
 - Added NZ-0050 Deterministic Consensus Replay Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
