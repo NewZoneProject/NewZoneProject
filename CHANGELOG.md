@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.56] - Added NZ-0055
+- Added NZ-0055 Stateless Transport Integrity Rollback Proofs specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.56.
+
+---
+
 ## [0.0.55] - Added NZ-0054
 - Added NZ-0054 Consensus Integrity Rollback Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
