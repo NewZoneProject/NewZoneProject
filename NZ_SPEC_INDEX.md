@@ -46,4 +46,4 @@ Each specification follows the minimalistic, durable, and platform‑agnostic pr
 ## Notes
 
 - This index is updated manually with every new specification.
--
+- Version numbers reflect the global standard version, not individual document maturity.
