@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.34] - Added NZ-0033
+- Added NZ-0033 Fixed-Width Metadata Encoding specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.34.
+
+---
+
 ## [0.0.33] - Added NZ-0032
 - Added NZ-0032 Identity Graph Verification specification.
 - Updated NZ_SPEC_INDEX.md.
