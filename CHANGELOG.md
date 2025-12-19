@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.32] - Added NZ-0031
+- Added NZ-0031 Stateless Transport Recovery Model specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.32.
+
+---
+
 ## [0.0.31] - Added NZ-0030
 - Added NZ-0030 Deterministic Transport Audit Trails specification.
 - Updated NZ_SPEC_INDEX.md.
