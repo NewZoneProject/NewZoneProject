@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.33] - Added NZ-0032
+- Added NZ-0032 Identity Graph Verification specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.33.
+
+---
+
 ## [0.0.32] - Added NZ-0031
 - Added NZ-0031 Stateless Transport Recovery Model specification.
 - Updated NZ_SPEC_INDEX.md.
