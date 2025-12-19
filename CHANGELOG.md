@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.26] - Added NZ-0025
+- Added NZ-0025 Fixed-Width Transport Encoding specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.26.
+
+---
+
 ## [0.0.25] - Added NZ-0024
 - Added NZ-0024 Quantum-Resilient Transport Hash specification.
 - Updated NZ_SPEC_INDEX.md.
