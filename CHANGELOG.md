@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.31] - Added NZ-0030
+- Added NZ-0030 Deterministic Transport Audit Trails specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.31.
+
+---
+
 ## [0.0.30] - Added NZ-0029
 - Added NZ-0029 Fixed-Width Payload Encoding specification.
 - Updated NZ_SPEC_INDEX.md.
