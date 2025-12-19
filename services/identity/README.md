@@ -7,22 +7,49 @@ Stateless microservice for generating and verifying identity IDs.
 - Stateless, deterministic, portable.
 - No external dependencies (Vanilla JS + built-in crypto).
 
-## Usage
+---
+
+## Usage (CLI)
 
 ```bash
 node services/identity/index.js
 ```
 
-## Output:
-
+Output:
 ```
 Generated ID: <32-char identity>
 Verification: true
 ```
 
-## API (planned)
+---
 
+## Usage (REST API)
+
+Start server:
+```bash
+node services/identity/server.js
 ```
-- POST /generate → returns identity_id
-- POST /verify → returns boolean
+
+Generate ID:
+```bash
+curl -X POST http://localhost:3000/generate \
+  -H "Content-Type: application/json" \
+  -d '{"input":"oleg@example"}'
+```
+
+Response:
+```json
+{ "identity_id": "a1b2c3d4..." }
+```
+
+Verify ID:
+```bash
+curl -X POST http://localhost:3000/verify \
+  -H "Content-Type: application/json" \
+  -d '{"input":"oleg@example","identity_id":"a1b2c3d4..."}'
+```
+
+Response:
+```json
+{ "valid": true }
 ```
