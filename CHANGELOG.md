@@ -5,6 +5,13 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.20] - Added NZ-0019
+- Added NZ-0019 Deterministic Packet Classification specification.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.20.
+
+---
+
 ## [0.0.19] - Added NZ-0018
 - Added NZ-0018 Deterministic Forwarding Model specification.
 - Updated NZ_SPEC_INDEX.md.
