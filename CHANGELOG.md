@@ -5,6 +5,14 @@ This project follows a minimalistic and stable versioning approach.
 
 ---
 
+## [0.0.61] - Added NZ-CRYPTO-SEED-01 and relocated NZ-CRYPTO-01
+- Added NZ-CRYPTO-SEED-01 deterministic identity root specification (24-word seed + password).
+- Moved NZ-CRYPTO-01 cryptographic primitives specification to standards directory.
+- Updated NZ_SPEC_INDEX.md.
+- Bumped version to 0.0.61.
+
+---
+
 ## [0.0.60] - Added NZ-0059
 - Added NZ-0059 Stateless Transport Integrity Forward Proofs specification.
 - Updated NZ_SPEC_INDEX.md.
